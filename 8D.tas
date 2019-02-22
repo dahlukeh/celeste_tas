@@ -1,4 +1,5 @@
 #Created by dahlukeh
+#Improvements by fishmcmuffins
  500
 ***
    1,Q
@@ -32,106 +33,106 @@
    1,R,J
    7,R
    6,R,J
-   3,R,U,K,G
+   4,R,U,K,G
   14,R,D,X
-  15,R
-   4,R,J
-  12,R
-   4,J
-   2,R,J
-   6,J
-   5,U,X
-  10
-   6,R,J
-   3,R
-   1,R,U,J,G
+   7,R,J
+   6,L,J
+  15,U,X
+   1,R,J
+   5,J
+   5,R
+   1,R,J,G
   13,R
    1,R,J
   14,R
    1,R,J
-  46,R
+  48,R
 #a-01
-   8,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   3,R,J
-  21,R,D
-  14,L,D
-  21,L,U,G
-   1,J,G
-   1,K,G
-   5,K
-   5,R,U,X
-  20,R
-   4,U,J,G
-   7,R
-   1,R,J
-   7,R
-   3
    6,R
    1,R,J
-   9,R
+  14,R
    1,R,J
-  15,R
-   4,R,G
+  14,R
+   7,R,J
+  24,R,D
+   6,L,D
+   5,L
+  17,L,U,G
+   4,L,G
+   1,R,J,G
+   1,K
+   6,R,K
+   5,R,U,X
+  10,R
+   4,R,J,G
+   1,R,K,G
+   1,R,J,G
+  11,R,D
+   1,R,J
+   9,R
+   4,R,J
+   1,R,K
+  10,R
+   9,R,G
    2,L,J
    5,L
   10,R
-  56
-   6,R
-   8,R,J
-  12,R
-  11,L
+  57
+  10,R
+   6,R,J
+  14,R
+   8,L
    1,U,J,G
-   3,J,G
-  11,L,U,G
-  26,L,G
+   3
+  26,L,U,G
+   3,L,G
    1,J,G
-   1,K,G
-   5,R,D,X
-  42,R,G
-   4,J,G
-   2,L,J
    1,K
-  27,R,K
+   5,R,D,X
+  48,R,G
+  12,R,K,G
+  10,R,J,G
+   9,R
    1,R,J
   14,R
    8,R,J
-   9,R,K
-   7,R
-   1,R,J
-  49,R
+   1,L,K,G
+   7,L,J,G
+   1,R,K
+   3,R,J
+   1,R,K,G
+  47,R
 #a-02
    6,R
-   8,R,J
-   5,R,X
-  32,R
-   5,U,X
-  10
-   8,R,J
-   4,R
-   1,R,J,G
-  12,R
+  14,R,J,X
+   3,R
+   5,R,D,C
+  14,R,D
+  13,U,X
+  12,R,J
+   3,R,K,G
+   7,R
+   3,R,J
+   7,R
+   1,R,J
    1,R,J
   10,R
    1,R,J
-  15,R,D
-  10,D
-   4
-  14,L
-  34,R,J
-   5,U,X
-   4
-   6,R,J
-  11,R
-   1,R,J,G
+   5,R,D
+   6,L,D
+   1,D
+   8,R,D
+   3,R
+   1,D,X
+  12,R,U,X
+  23,R,J
+   1,R,K,G
   13,R
-   8,R,J
+   9,R,J
   25,R
    9,R,J
-  26,R
+  25,R
+   1
    1,R,J
   27,R
    6,R,J
@@ -180,29 +181,27 @@
    5,U,X
   48,R
 #a-03
-   5
-   6,R
-   5,R,U,X
-  10,R,U,J,G
-   5,R,U,X
-  44,R
-   7,J
+  10,R
+   3,J,G
    9,R
-   7,J
-   9,R
-  10,J
-  15,R
+  10,R,J
+   5,R,D,X
+  11,R
+  10,R,J
+   5,R
+  48,R,J
    1,D,X
-  13,R,X
+   4,R,X
+  15,R
+   2,R,G
+  10,J,G
+  10,K
+  10,J
+  10,K
+   4,J
+  29,R,G
    1,R,J
-   9,R
-   1,R,J
-  79,R,G
-   5,R,J
-  13,R
-  75,R,G
-   5
-   6,R,J
+   5,R,K
    1,D,X
   13,R,X
    1,R,J
@@ -1171,3 +1170,4 @@
    5,U,X
   45,R
    5,D,X
+ 200,R
