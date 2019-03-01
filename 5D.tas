@@ -1,10 +1,9 @@
 #Created by dahlukeh
- 500
-***
+#Improvements by Fishmcmuffins
    1,Q
    1,J
  221
-
+ 
 #a-00
    4,R,D,X
    1,R,J
@@ -202,35 +201,37 @@
   36
   17,U,X
   16,R,U,J
-  19,K,G
-  11,R,D,X
-   6,R,J
-   4,R,U,K,G
-   4,R
-  14,R,D,X
+  14,L,K,G
+   5,R
+   5,R,D,X
    1,R,J
-  47,R,D,X
-#c-05
    7,R
+   3,R,K
+   2,R,J,G
+   4,R
+   3,R,J,G
+  12,R,D,X
+   1,R,J
+   3,R
+#c-05
+  40
+   4,R
+  13,R,J
+   1,L,K,G
+  23,R,K
+   4,L
+  12,U,X
+   8,L,J
+  25,L
+   2,L,K,G
+  33,L,U,G
+   9,J,G
    9,R,J
-  10,R,U,X
-  22,R,G
-  12,U,J,G
-  10,U,K,G
-   6,L,K
-   6,L,X
-  16,L
-  35,L,U,G
-  26,L,G
-   4,U,J,G
-  38,R,U,K,G
-   6,U,X
-  17,R
-   4,U,J,G
-  46,L,U,K,G
-   6,L,U,J,G
-   7,L,U,K,G
-   8,L
+  16,R,X
+  15,U,C
+  18,L,K
+  20,L
+ 
   10,L,D,X
    1,L,J
    7,L
