@@ -2,11 +2,7 @@
 #Improvements by dahlukeh
    1,Q
    1,J
- 150
-   1,Q
-   1,J
   31
-***
 
 #lvl_a-01
   33
@@ -390,10 +386,10 @@
    1,L,J,G
    1,K,G
    1,L,J,G
-   2,R,J
-  20,R,D
+   3,R,J
+  21,R,D
   15,D,X
-  18,R
+  17,R
    4,D,X
   10,L,X
    1,R,J
