@@ -1,5 +1,4 @@
-#Created by dahlukeh
-#Improvements by Fishmcmuffins
+#Created by dahlukeh and Fishmcmuffins
  500
    1,Q
    1,J
@@ -107,22 +106,21 @@
    4,R
    2,R,J
   20,R,D,X
-  17,R,D
-   9,R
+  24,R,D
+   5,R
    1,D,X
-  23,R,X
+  13,R,X
   18,R,C
-   5,U,X
-   9,R
-  19,R,X
-  13,U,C
-  18,R,X
-  13,D,C
-  31,R,U,X
-  11,R
+  14,U,X
+  19,R,C
+  13,U,X
+  18,R,C
+  13,D,X
+  31,R,U,C
+  10,R
    1,D,X
    5,R,X
-  54,D
+  53,D
   39,U,X
   25,R
   16,R,D
@@ -135,8 +133,9 @@
    4,R,X
   36,R,D
   10,D
-   1,D,X
-  26,R,X
+   1,D,C
+  17,R,C
+  10,R,X
   19,U,C
    1,D,X
    5,R,X
@@ -288,8 +287,9 @@
    4,R,X
   36,R,D
   10,D
-   1,D,X
-  26,R,X
+   1,D,C
+  17,R,C
+  11,R,X
   19,U,C
    1,D,X
    5,R,X
@@ -312,16 +312,22 @@
    8,R,J
   14,L,D,X
    1,R,J
-  76
+  57
+  13,R,X
+   1,L,J
+   1,L
   14,L,D,X
    1,R,J
-  14,R,D,X
+   6,R,D,X
+   1,R,J,G
+  12,R
    1,R,J
-  14,R,D,X
+  13,R,D,X
   40
 #d-01
+   1,R,D,X
    1,R,J
-  12,R,D,X
+  11,R,D,X
    6,R,J
    9,R
    5,R,U,X
@@ -446,61 +452,53 @@
    1,D,X
   15,R,X
    9,D
-  15,D,X
-   5,U,C
-  25,D
-  10,R,D
+  19,D,X
+  15,U,C
    1,D,X
-  15,R,X
-   5,U,C
-  18
+  18,R,X
+  23,U,C
    5,D,X
   13,R
    1,D,X
   15,R,X
   19,D
-   5,U,X
-  16
+  21,U,C
   15,D,X
    1,D,C
   18,R,C
-   5,U,X
-  14
-   1,D,X
-   5,R,X
+  19,U,X
+   1,D,C
+   5,R,C
   24,R,D
   13,D
-  15,R,X
+  12,R,X
   15,U,C
   15,R,X
   19,D
    5,R,X
   15
-   5,U,X
-  10
-  15,R,X
-  22
-   5,R,X
-  16
-   5,U,X
-  10
-  18,R,X
-   7,R
-   3
-   9,D
-  15,R,X
-  15,R,U,C
-   3,R
-  27,R,D
-  18,R,X
+  15,U,X
   15,R,C
-   9,R,U,G
- 134,R,G
+#+1f spike cycle later on
+  23,D
+  19,R,X
+  16,U,C
+  18,R,X
+  13,R
+   3,D
+   3,R,D
+  17,R,X
+  15,R,U,C
+  31,R
+  31,R,X
+ 104,R,G
+  26,R,U,G
    7,R,U,J,G
-  12,R,K,G
-  12,J,G
-   5,R,K,G
-   7
+   4,R,K,G
+  15,U,X
+   1,R,J,G
+   1,R
+   6
    1,D,X
    5,L,X
    1,R,J
@@ -1122,59 +1120,140 @@
    3,R,J,G
   40
 #f-11
-  16,R,J,G
-  15,R,G
+  15,R,J,G
+  20,R,G
    1,R
-  15,R,X
-   5
-  14,L,D,C
+   7,R,U,X
+   1,R,J,G
+   7,R
+   1,D,C
+  12,L,C
    1,R,J
-   6,R,D,X
+   7,R
+   1,R,J
+   5,R,D,X
   13,R,G
-   5,R,J,G
-   5,R,G
+   3,R,J,G
+   4,R,G
   40
 #f-12
-  14,R,G
-   3,R,D,J
+   1,R,J,G
+  11,R,G
+   7,R,J,G
+  22,R,G
+   2,R,J,G
+  16,R,G
+   1,R,J,G
+  12,R,G
+   1,D
+   3,R
+   7,L,X
+   1,R,J
+  20,R,J,G
+   8,R,G
+   5,R
+   2,R,J,G
+  11,R
+   1,R,J
+  16,R
+   1,R,J
+   8,R
+  16,J,G
+  12,R,K,G
+   8,R,J,G
+  33,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,L,J
   14,L,D,X
    1,R,J
-   7,R,D,X
-  13,R,G
-   2,R,J,G
-  19,R,G
-   5,R,J,G
-  17,R,G
-  23,R,J,G
-   2,R
-  15,R,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,U,X
-  40,U,G
-   1,J,G
+  14,R,D,X
+   1,L,J
+  14,L,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   1,L
    1,R
-  10
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R,J
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R,J
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+  10,D
+  10,L
+  10,L,D
+  10,L
+  10,R,D
+  10,L
+  10,L,D
+  10,L
+  10,R,D
    5,L
-  81
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
-  15,D,X
-  15,D,C
- 206
-  15,D,X
- 100
+   5,L,D
+   5,L
+   5,R,D
+   5,L
+   5,R,D
+   5,L
+   5,R,D
+  10,L,D
+  10,L
+  10,R,D
+  10,L
+  10,L,D
+  10,L
+   2,L
+   5,L,D,X
+   7,L
+   1,L,D,J
+  14,L
+   1,L,J
+  14,L
+   1,L,D,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  28,R,D
   15,D,X
   37,R
   34,R,D

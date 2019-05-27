@@ -1,5 +1,7 @@
 #Version 1.2.6.1, D-side version 2.05
 #Needs Speedrun Clock to File for faster hub animations
+#Done by dahlukeh, EuniverseCat, fishmcmuffins
+
 #Start from Begin
    1,D
    1,J
@@ -95,7 +97,7 @@ Read,4D.tas,8
 
 #Mirror Temple
   46
-Read,5D.tas,8
+Read,5D.tas,7
  193
    1,J
  361
@@ -137,7 +139,7 @@ Read,7D.tas,8
 
 #Core
   46
-Read,8D.tas,9
+Read,8D.tas,7
  193
    1,J
  361

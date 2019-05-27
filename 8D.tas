@@ -1,11 +1,9 @@
 #Created by dahlukeh
 #Improvements by fishmcmuffins
- 500
-***
    1,Q
    1,J
   31
-  
+ 
 #00
  190
    1,D,X
@@ -36,7 +34,7 @@
   32,R
    4,R,D,X
   11,R,J
-  15,D,X
+  18,D,X
   14,L,D,C
    1,R,J
   14,R,D,X
@@ -45,64 +43,49 @@
    1,R,J
   14,R,D,X
    1,L,J
-  14,L,D,X
+   4,L,D,X
+  10,L,J
+   7,L
+  10,L,D,X
+   5,L,J
+  12,L,D,X
    1,R,J
-  14,R,D,X
-   1,L,J
-  14,L,D,X
+   7,R
+   4,R,J
+   8,R,D,X
+   5,R,J,G
+  11,R
+   6,R,J
+   5,R,D,X
+   1,R,J,G
    1,R,J
-  15,R,D,X
-  20,J
-   7
+   6,R
+   7,R,J
+   3,R
+  40
+#a-00
+  18,R
+   7,R,D
+  15,R,J
+  15,U,X
+   5,R,J
    1,D,X
   13,R,X
    1,R,J
-  14,R,D,X
-   1,R,J
-   5,R,D,X
-  40
-#a-00
-   3,R
-   1,R,J
-   7,R
-   5,R,J
-   4,R,K,G
-  14,R,D,X
-  12,R,J
-  15,U,X
-   1,R
-   1,R,J
-   5,J
-   4,R
-   1,R,J,G
-  13,R
-   1,R,J
-  14,R
-   1,R,J
-  48,R
-#a-01
    6,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   7,R,J
-  24,R,D
-   6,L,D
-   5,L
-  17,L,U,G
-   4,L,G
+   2,R,J
+  40,R
+#a-01
+  34,R
+  15,R,U,X
+  15,R
    1,R,J,G
-   1,K
-   6,R,K
-   5,R,U,X
-  10,R
-   4,R,J,G
+   5,L,J,G
    1,R,K,G
    1,R,J,G
-  11,R,D
-   1,R,J
-   9,R
+  11,R
+   2,R,J
+   8,R
    4,R,J
    1,R,K
   10,R
@@ -112,71 +95,64 @@
   10,R
   57
   10,R
-   6,R,J
-  14,R
+   7,R,J
+  13,R
    8,L
    1,U,J,G
    3
-  26,L,U,G
-   3,L,G
+  13,L,U,G
+  17,L,G
    1,J,G
    1,K
    5,R,D,X
   48,R,G
-  12,R,K,G
-  10,R,J,G
+   7,K,G
+   1,L,K
+  14,R,J,G
+   1,R,K,G
    9,R
    1,R,J
   14,R
    8,R,J
    1,L,K,G
-   7,L,J,G
+   5,L,J,G
    1,R,K
    3,R,J
    1,R,K,G
-  47,R
+  52,R
 #a-02
-   6,R
-  14,R,J,X
-   3,R
-   5,R,D,C
-  14,R,D
-  13,U,X
-  12,R,J
-   3,R,K,G
-   7,R
-   3,R,J
-   7,R
+   8,R,X
+   9,R,J
+   1,D,C
+  17,R,U,C
    1,R,J
-   1,R,J
+   6,R,K
+   2,R
+  15,R,K
+   4,R,J
+   7,R
+   4,R,J
   10,R
-   1,R,J
-   5,R,D
-   6,L,D
-   1,D
-   8,R,D
-   3,R
+   4,R,J
+  14,R,D
+   7,L,D
+   6,R,D
+   6,R
    1,D,X
   12,R,U,X
-  23,R,J
-   1,R,K,G
-  13,R
-   9,R,J
-  25,R
-   9,R,J
-  25,R
-   1
-   1,R,J
-  27,R
-   6,R,J
-  10,R,G
-   2,U,J,G
-   2,R,J,G
-   2
+  15,R,J
+   1,D,X
+   7,R,X
+  12,R,J
+  41,R
+   8,R,J
+   3,K,G
+   1,R,K
+   7,L,K
   23,L
    2,R
-   8
-  28,L
+   4
+  27,L
    5,U,X
   11
   13,R,J
@@ -197,35 +173,35 @@
   13,L,X
    5,L
   12,L,J
-  10,L,K,G
-   2,L,J,G
-  10,L,K,G
-   9,L
-   1,L,J
-   9,L
-   1,L,J
-  10,L
-   1,L,J
+   3,L,K,G
+   3,J,G
+   1,R,J
+  14,L,K,G
+   1,L,J,G
+   1,L,K,G
   11,L
-   1,L,J
-  31,L
-   5,L,U,X
-  10
-   5,U,X
-  48,R
+   3,L,J
+   7,L
+   3,L,J
+   7,L
+   2,L,D,J
+  32,L
+  15,L,U,X
+  13,U,C
+  40,R
 #a-03
   10,R
-   3,J,G
+   3,R,J,G
    9,R
   10,R,J
    5,R,D,X
   11,R
   10,R,J
    5,R
-  48,R,J
+  51,R,J
    1,D,X
    4,R,X
-  15,R
+  12,R
    2,R,G
   10,J,G
   10,K
