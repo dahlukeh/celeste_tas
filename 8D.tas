@@ -813,19 +813,23 @@
   40
 #c-05
   71
-  10,J
+   2,R,J
+   8,J
    5,R,D,X
    9,R
-   3,R,J
-   3,R
-  13,R,J,G
-   2,R
-   3,R,J,G
-   9,R
+   5,R,J
+   3,R,K,G
+   1
+   4,R
+   1,R,J,G
+   1,J
+   5,R,J
+   7,R,K,G
+   6,R
    1,R,J
-   8,R
-   3,R,G
-  53
+   6,R
+   2,R,G
+  56
 #REMOVE
   15
   15,L
@@ -1057,98 +1061,97 @@
    1,R,K,G
    1,R,J,G
   12,R
-   1,R,J
-
-#This bit is unoptimal on purpose to make it sync. Should save some frames by moving right.
-   9,R,D
-   9,D
-   1,R,J
-   2,R
-  12,R,X
+   4,R,J
+  14,R
+  11,R,X
   40
 #space
-   9,R
-   5,R,X
-  64,R,D
-  13,R,J
-  69,R,D
-  14
-  28,R
-  28,R,J
-  14,R
-  15
-  27,R
-  28,R,J
-  31,R
-   8,R,J
-  48,R
-   1,R,J
-  37,R
-   1,D,X
-   4,R,X
-  37,R
-   4,R,D
-   1,D,X
-   4,R,X
-  16,R
-   5,R,U,X
-  33,R
-   5,R,X
-  27,R
-  23,R,D
-   5,D
-  18,R,D
-   1,D,X
-   4,R,X
-   7,R
-   1,R,J
-  29,R,D
-  41,D
-   1,D,X
-  14,R,X
-   1
-   1,D,C
-  10,R,C
-   5,U,X
-  10
-   5,R,X
-  32,R
-   5,R,X
-  17,R
-   1,R,J
    8,R
-   5,R,D,X
-   3,R
-  36,R,J
-   1,D,X
-  14,R,X
-  19,R
-   1,S
-   1,D,J
-   1
-   1,J
-  68
-  13,R
-  12,R,J
-  40,R
-   7,R,D
-  16,L,D
-  19,R,D
-   5,R,X
-  30,R,D
-   5,R,X
-  35,R,D
-  15,R,D,X
-   5,R,D
-  10,R,X
+  13,R,D,X
+  54,R,D
+   5,R,J
+  69,R
+  13,R,D
+  10,R
+  19
+  18,R
+  40,R,J
+   5
+  27,R
+  40,R,J
+  28,R
+   8,R,J
+  45,R
    1,R,J
-   6,R
-  18
-   6,D
+  21,R
    1,D,X
   14,R,X
-   6,R,D
-  41
+  46,R
+   1,D,X
+  14,R,X
+   7,R
+  15,R,U,X
+  13,R
+  15,R,X
+  31,R
+   9,R,D
+   5,D
+  17,R,D
+   6,R
+   1,D,X
+  11,R,X
+   1,R,J
+  27,R,D
+  10,D
+   1,R,D
+  24,D
+   9
+   1,D,X
+  14,R,X
+   1,R
+   1,D,X
+  10,R,X
+  15,U,C
+  15,R,X
+  24,R
+   1,D,X
+  14,R,X
+   4,R
+   1,R,J,G
+  11,R
+  14,R,D,X
+   6,R,J
+  23,R
+   1,D,X
+  14,R,X
+  24,L,D
+  16,D
+  15,U,X
+   1
+  27,R
+   1,R,J,G
+   1,R,K,G
+   3
+  18,R
+   5,R,J
+  40,R
+  15,L,D
+  10,R,D
+  20,R,D
+   1,D,X
+  14,R,X
+  15,R,D
+  15,R,X
+  20,R,D
+  15,R,D,C
+   5,R,D
+   1,D,X
+   9,R,X
+   1,R,J
+  20
+   1,D,X
+  14,R,X
+  46
    1,R,D
   91,F,90
    8,F,135
