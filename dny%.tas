@@ -1,4 +1,4 @@
-#Version 1.2.6.1, D-side version 2.05
+#Version 1.3.1.2, D-side version 2.072
 #Needs Speedrun Clock to File for faster hub animations
 #Done by dahlukeh, EuniverseCat, fishmcmuffins
 
@@ -31,7 +31,7 @@
 
 #Prologue
    1
-Read,0D.tas,7
+Read,0D.tas,a-00
 
 #Overworld
  194
@@ -41,7 +41,7 @@ Read,0D.tas,7
 
 #Forsaken City
   46
-Read,1D.tas,7
+Read,1D.tas,lvl_a-01
  193
    1,J
  361
@@ -55,7 +55,7 @@ Read,1D.tas,7
 
 #Old Site
   46
-Read,2D.tas,8
+Read,2D.tas,a-01
  193
    1,J
  361
@@ -69,7 +69,7 @@ Read,2D.tas,8
 
 #Celestial Resort
   46
-Read,3D.tas,8
+Read,3D.tas,a_01
  193
    1,J
  361
@@ -83,7 +83,7 @@ Read,3D.tas,8
 
 #Golden Ridge
   46
-Read,4D.tas,8
+Read,4D.tas,a-01
  193
    1,J
  361
@@ -97,7 +97,7 @@ Read,4D.tas,8
 
 #Mirror Temple
   46
-Read,5D.tas,7
+Read,5D.tas,a-00
  193
    1,J
  361
@@ -111,7 +111,7 @@ Read,5D.tas,7
 
 #Reflection
   46
-Read,6D.tas,8
+Read,6D.tas,a-00-intro
  193
    1,J
  361
@@ -125,7 +125,7 @@ Read,6D.tas,8
 
 #Summit
   46
-Read,7D.tas,8
+Read,7D.tas,0m
  193
    1,J
  361
@@ -139,7 +139,7 @@ Read,7D.tas,8
 
 #Core
   46
-Read,8D.tas,6
+Read,8D.tas,lvl_00
  193
    1,J
  361
