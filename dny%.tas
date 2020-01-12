@@ -42,113 +42,26 @@ Read,0D.tas,a-00
 #Forsaken City
   46
 Read,1D.tas,lvl_a-01
- 193
-   1,J
- 361
-   1,J
+Read,nextMap.tas
 
-#Overworld
- 255
-   1,J
-  41
-   1,J
-
-#Old Site
-  46
 Read,2D.tas,a-01
- 193
-   1,J
- 361
-   1,J
+Read,nextMap.tas
 
-#Overworld
- 255
-   1,J
-  41
-   1,J
-
-#Celestial Resort
-  46
 Read,3D.tas,a_01
- 193
-   1,J
- 361
-   1,J
+Read,nextMap.tas
 
-#Overworld
- 255
-   1,J
-  41
-   1,J
-
-#Golden Ridge
-  46
 Read,4D.tas,a-01
- 193
-   1,J
- 361
-   1,J
+Read,nextMap.tas
 
-#Overworld
- 255
-   1,J
-  41
-   1,J
-
-#Mirror Temple
-  46
 Read,5D.tas,a-00
- 193
-   1,J
- 361
-   1,J
+Read,nextMap.tas
 
-#Overworld
- 255
-   1,J
-  41
-   1,J
-
-#Reflection
-  46
 Read,6D.tas,a-00-intro
- 193
-   1,J
- 361
-   1,J
+Read,nextMap.tas
 
-#Overworld
- 255
-   1,J
-  41
-   1,J
-
-#Summit
-  46
 Read,7D.tas,0m
- 193
-   1,J
- 361
-   1,J
+Read,nextMap.tas
 
-#Overworld
- 255
-   1,J
-  41
-   1,J
-
-#Core
-  46
 Read,8D.tas,lvl_00
  193
    1,J
- 361
-   1,J
-
-#Overworld
- 155
-   1,X
-  31
-   1,N
-  80
-   1,R

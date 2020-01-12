@@ -4,106 +4,108 @@
   31
 
 #a-01
- 189
-   4,D,X
-   1,R,X
-   6,R
+ 191
+   1,D,X
+   9,R,X
    7,R,J
    1,R,K,G
-   5,R,D,X
-  48,R
+  13,R,D,X
+  40
 
 #a-02
    1,R
    6,R,J
-   6,R,K,G
-   1,R,X
-  24,R
-   5,R,D,K,X
-  27,R,K
-   5,U,X
-  10,R
+   1,R,K,G
+   1,R
+  22,R,X
+   4,R,J
+   3,R
+   4,R,D,X
+  28,R,J
+  15,U,X
   12,R,J,G
-  12,L,K
-  12,R,J
    8,L,K
-  39
+   7,R,J
+  12,L,K
+   2,J,G
+  40
 
 #a-03
-  10,L
-   5,R,D,X
-   6,R
-   5,R,J
-   5,R,K,G
-   5,R,X
-  21,R
-   1,R,J
-  15,R,K
-   5,U,X
-  11,R
-   2,R,J,G
-   5,L,J,G
+   3,R,K
+   4,R
    4,R,J,G
-   1,R,K,G
-   7,R,J,G
-  27,R,D
-  20,R,J
-   7,R,D
-   3,R
-   5,R,J,G
-  16,R
-   5,L,D,X
-  12,R,G
+  11,R,X
+   4,R,J
+  22,R,X
+   4,R,J
+  14,R,K
+  15,U,X
    1,R,J,G
-  31,R,X
-  11,R,D,J,C
-   1,R
+   4,L,J,G
+   7,R,J
+   1,R,K,G
+   6,R,J,G
+  26,R,D
+  20,R,J
+  13,R
    4,R,J,G
-  32,R,D
-   2,R
-   4,D,X
-  21,R
+  15,R
+  13,L,D,X
+   5,R,G
+  26,R,X
+   4,R,J
+   4,R,D,C
+   7,R,J
+   1
+   4,R,J
+   1,R,K,G
+  34,R,D
+   1,D,X
+  26,R,X
    4,R,J
   19,R,K
-   5,U,X
-  11,R
-   6,R,J,G
+  15,U,X
+   7,R,J,G
    7,R
-   9,R,D,J,X
+   5,R,D,X
+   5,R,J
    2,R,K,G
-  47,R
+   5,R
+  40
 
 #a-04
-  11,R
-   1,L
-   5,R,D,X
-  17,R
+  10,R
+  16,R,D,X
+   6,R
    1,R,J
-   8,R
-   5,R,X
-  25,R
-  52,R,K
-   2,R,J,G
-   1,R,K,G
+   9,R
+  24,R,X
+   6,R
+  30,R,J
+  22,R
+   1,R,D
+   5,R,K,G
+   5,R
    1,R,J,G
-   7,R,K,G
+   2,R
    1,D,X
-   4,R,X
-  23,R
-  10,R,K
-   5,U,X
-  11
-  19,R,J
+  24,R,X
+   4,R,J
+   2,R
+   6,R,K
+  15,U,X
+   9,R,J
+   4,L,J
+   6,R,J
    1,R,K,G
-   4,L,K
-  38,L
+   2,R,J,G
+   1,K
+  40
 
 #a-05
-   2,R,J,G
-   3,R,K,G
+   5,R,J,G
    6,R
-   5,R,X
-   6,R
+  10,R,X
    5,R,J
    5,R,D,X
    6,R
@@ -547,4 +549,4 @@
    1,R,J,G
    1,R,K,G
   15,R
-  27,R,D,X
+  28,R,D,X
