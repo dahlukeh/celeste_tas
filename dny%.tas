@@ -47,21 +47,31 @@ Read,nextMap.tas
 Read,2D.tas,a-01
 Read,nextMap.tas
 
+   1
 Read,3D.tas,a_01
 Read,nextMap.tas
 
+   1
 Read,4D.tas,a-01
 Read,nextMap.tas
 
+   1
 Read,5D.tas,a-00
 Read,nextMap.tas
 
+   1
 Read,6D.tas,a-00-intro
 Read,nextMap.tas
 
+   1
 Read,7D.tas,0m
 Read,nextMap.tas
 
+   1
 Read,8D.tas,lvl_00
- 193
+  60
    1,J
+ 362
+   1,J
+  83,S
+   1,S
